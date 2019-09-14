@@ -683,3 +683,24 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
 }
+
+ul.social-buttons2 li a:active, ul.social-buttons2 li a:focus, ul.social-buttons2 li a:hover {
+  background-color: #fed136;
+}
+
+ul.social-buttons2 li a {
+  font-size: 20px;
+  line-height: 50px;
+  display: block;
+  width: 50px;
+  height: 50px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  color: #212529;
+  border-radius: 100%;
+  outline: none;
+  background-color: white;
+}
+ul.social-buttons2 {
+  margin-bottom: 0;
+}
